@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>img/debug.png</file>
+	<file>img/add.png</file>
+	<file>img/delete.png</file>
+	<file>img/sort.png</file>
+	<file>img/closeAllTabs.png</file>
+	<file>img/progress.gif</file>
+	<file>img/editable.png</file>
+	<file>img/editCopy.png</file>
+	<file>img/editCut.png</file>
+	<file>img/editFind.png</file>
+	<file>img/editPaste.png</file>
+	<file>img/editRedo.png</file>
+	<file>img/editUndo.png</file>
+	<file>img/fileConvert.png</file>
+	<file>img/fileConvert2.png</file>
+	<file>img/fileExport.png</file>
+	<file>img/fileQuit.png</file>
+    <file>img/fileNew.png</file>
+    <file>img/fileOpen.png</file>
+    <file>img/fileSave.png</file>
+	<file>img/fileSaveAs.png</file>
+	<file>img/fileSaveAll.png</file>
+	<file>img/fileSaveAsTemplate.png</file>
+	<file>img/filePrint.png</file>
+	<file>img/helpHelp.png</file>
+	<file>img/helpLink.png</file>
+	<file>img/model.png</file>
+	<file>img/EasyModXL.png</file>
+	<file>img/settConfiguration.png</file>
+	<file>img/settPreferences.png</file>
+	<file>img/thumb.png</file>
+	<file>img/toolsFPU.png</file>
+	<file>img/toolsSPUP.png</file>
+</qresource>
+</RCC>
